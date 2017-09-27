@@ -1,8 +1,11 @@
-# Distributed-Consensus-Raft-
+# Distributed-Consensus-Raft
 Distributed Consensus (Raft)
 
-http://thesecretlivesofdata.com/raft/
+## 参考资料
+1. http://thesecretlivesofdata.com/raft/
 
-https://raft.github.io/
+2. https://raft.github.io/
 
-http://www.infoq.com/cn/articles/raft-paper
+3. http://www.infoq.com/cn/articles/raft-paper
+
+4. http://www.infoq.com/cn/articles/coreos-analyse-etcd
